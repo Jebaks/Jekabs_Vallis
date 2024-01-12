@@ -22,4 +22,4 @@ def materialuAprekins(garums_fn, platums_fn, augstums_fn, skaits_fn, biezums_fn)
     print('Izmaksas:\n', materiali, 'cm2 finiera maksā:', cena_finierim,'Eur\n', profili_gar, 'cm profili maksā:',cena_profiliem,'Eur\n', savienojumi, 'stūra savienojumi maksā:',cena_savienojumiem,'Eur\nKopā:',cena_kopa,'Eur')
 print('Ievadiet podesta garumu(cm), platumu(cm), augstumu(cm), skaitu un finiera biezumu(12mm, 15mm, 18mm, 21mm), tādā secībā, kā norādīts, pēc katra nospiežot Enter taustiņu:')
 garums, platums, augstums, skaits, biezums = float(input()), float(input()), float(input()), int(input()), int(input()) #lietotājs ievada katru mērījumu, kas nepieciešams lai izrēķinātu nepieciešamo materiālu daudzumu
-materialuAprekins(garums, platums, augstums, skaits, biezums) #lietotājs ievada katru mērījumu, kas nepieciešams lai izrēķinātu nepieciešamo materiālu daudzumu
+materialuAprekins(garums, platums, augstums, skaits, biezums) #lietotājs ievada katru mērījumu, kas nepieciešams lai izrēķinātu nepieciešamo materiālu daudzumuehehehehhehe\
