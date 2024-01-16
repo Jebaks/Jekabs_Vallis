@@ -1,0 +1,2 @@
+mylist = []
+print(mylist)

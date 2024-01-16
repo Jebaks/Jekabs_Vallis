@@ -1,0 +1,3 @@
+saraksts = [1,2,3,4,5,6,7,8,9]
+for i in saraksts:
+    print(i*str(i))#vienu reizinātāju pārveido par string mainīgo, lai to parādītu tik reizes, un nevis sareizinātu
