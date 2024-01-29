@@ -21,4 +21,3 @@ def sort():
     for number in array:
         print(number, end='; ')
 sort()
-#hehehehehehehehe
